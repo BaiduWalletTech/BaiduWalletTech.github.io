@@ -1,0 +1,18 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 百度钱包技术团队
+email: baiduwallet.tech@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  “百度钱包”是百度公司的支付业务品牌及产品名称。百度钱包打造“随身随付”的“有优惠的钱包”，它将百度旗下的产品及海量商户与广大用户直接“连接”，提供超级转账、付款、缴费、充值等支付服务，并全面打通O2O生活消费领域，同时提供“百度理财”等资产增值功能，让用户在移动时代享受一站式的支付生活。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.baifubao.com" # the base hostname & protocol for your site
+twitter_username: BaiduWalletTech
+github_username: BaiduWalletTech
+# Build settings
+markdown: kramdown
